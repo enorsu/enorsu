@@ -14,4 +14,4 @@ Some things:
 - some V understanding
 - little C and C++
 - HTML, JS & CSS
-- did i forget something? that is very much possible
+- did i forget something? did i forget something?
